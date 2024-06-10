@@ -1,19 +1,19 @@
 /*
 terraform {
   cloud {
-    organization = "sami600"
+    organization = "julio"
 
     workspaces {
-      name = "cloud_armor_factory"
+      name = "gcp-mcit"
     }
   }
 }*/
 terraform {
   cloud {
-    organization = "sami123123123"
+    organization = "julio_gcp-mcit"
 
     workspaces {
-      name = "cloud_armor_factory_mcit_8thFeb"
+      name = "gcp-mcit"
     }
   }
 }
