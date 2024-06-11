@@ -1,7 +1,7 @@
 /*
 terraform {
   cloud {
-    organization = "julio"
+    organization = "gcp-mcit"
 
     workspaces {
       name = "gcp-mcit"
@@ -10,7 +10,7 @@ terraform {
 }*/
 terraform {
   cloud {
-    organization = "julio_gcp-mcit"
+    organization = "gcp-mcit"
 
     workspaces {
       name = "gcp-mcit"
